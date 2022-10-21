@@ -1,4 +1,8 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+
+<h1 align="center">
+  <a href=""><img src="https://i.ibb.co/Wc2FkCs/course-img.png" </a>
+</h1>
+
 # ADVANCED SQL - MYSQL FOR ANALYTICS BUSINESS INTELLIGENCE COURSE
 This project contains all my practice files for the cources **Advanced SQL - MySQL for Analytics Business Intelligence**
 + Link course: https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/
@@ -12,8 +16,11 @@ This project contains all my practice files for the cources **Advanced SQL - MyS
 + MySQL Workbench download: https://dev.mysql.com/downloads/workbench/
 
 ## Database ERP:
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-
+    
+<h1 align="center">
+  <a href=""><img src="https://i.ibb.co/Bgks2dk/data-erp.png" </a>
+</h1>
+    
 ### I have learnt:
 + **Traffic Analysis & Optimization**: calculate session volumne, conversion rate, optimize budgets
 + **Website Measurement & Testing**: comparing traffic and conversion rate,...
