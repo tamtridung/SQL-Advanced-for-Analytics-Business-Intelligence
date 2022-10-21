@@ -4,7 +4,7 @@
 </h1>
 
 # ADVANCED SQL - MYSQL FOR ANALYTICS BUSINESS INTELLIGENCE COURSE
-This project contains all my practice files that i had completed for the cources **Advanced SQL - MySQL for Analytics Business Intelligence**
+This project contains all my practice files that i had completed for the course **Advanced SQL - MySQL for Analytics Business Intelligence**
 + Link course: https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/
 + Course overview:
     + Write advanced SQL queries to explore and analyze databases with MySQL Workbench
